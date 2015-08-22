@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 ruby '2.2.2'
-
+gem 'figaro', '~> 1.1.1'
+gem 'paperclip-dropbox', '~> 1.3.2'
 gem 'bootstrap-generators', '~> 3.3.4'
 gem 'paperclip', '~> 4.3.0'
 gem 'rails', '4.2.3'
